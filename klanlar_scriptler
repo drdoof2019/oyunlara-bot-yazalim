@@ -1,0 +1,5 @@
+temizlik
+javascript:var premiumBtnEnabled=false;$.getScript('https://shinko-to-kuma.com/scripts/scavengingFinal.js');
+
+koordinat picker
+javascript:$.getScript('https://twscripts.dev/scripts/mapCoordPicker.js');
